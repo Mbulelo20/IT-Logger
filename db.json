@@ -1,0 +1,57 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed hard drive on workstation 005",
+      "attention": true,
+      "tech": "undefined undefined",
+      "date": "2020-06-29T13:40:34.762Z"
+    },
+    {
+      "id": 2,
+      "message": "Workstation 007 not posting",
+      "attention": true,
+      "date": "03-02-2019",
+      "tech": "John Doe"
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4,
+      "message": "Technicians not showing: issue seems to be fixed now",
+      "attention": false,
+      "tech": "Mbulelo Pani",
+      "date": "2020-06-29T13:56:53.341Z"
+    },
+    {
+      "message": "This is a trial message",
+      "attention": false,
+      "tech": "James May",
+      "date": "2020-06-29T13:57:39.675Z",
+      "id": 5
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "James",
+      "lastName": "May",
+      "id": 5
+    },
+    {
+      "firstName": "Mbulelo",
+      "lastName": "Pani",
+      "id": 6
+    },
+    {
+      "firstName": "Jon",
+      "lastName": "Snow",
+      "id": 7
+    },
+    {
+      "firstName": "Rowan ",
+      "lastName": "Atkinson",
+      "id": 8
+    }
+  ]
+}
